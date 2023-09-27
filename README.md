@@ -5,10 +5,10 @@ Unten finden Sie die verlinkten Dateien.
 
 ## Verlinkte Dateien
 
-[IaaS](M346Git\IaaS.md)
-[PaaS](M346Git\PaaS.md)
-[SaaS](M346Git\SaaS.md)
-[OnPremise](M346Git\OnPremise.md)
-[Public](M346Git\Public.md)
-[Private](M346Git\Private.md)
-[HybridCloud](M346Git\HybridCloud.md)
+- [IaaS](IaaS.md)
+- [PaaS](PaaS.md)
+- [SaaS](SaaS.md)
+- [OnPremise](OnPremise.md)
+- [Public](Public.md)
+- [Private](Private.md)
+- [HybridCloud](HybridCloud.md)
